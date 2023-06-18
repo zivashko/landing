@@ -1,0 +1,55 @@
+.footer {
+  text-align: center;
+  padding: 60px;
+  background-color: #2c2b2b;
+
+}
+
+.footer a {
+  font-size: 30px;
+  color: #1EDD88;
+  display: inline-block;
+  margin-inline: 5px;
+}
+
+.footer p {
+  color: grey;
+}
+
+.footer .fa-heart{
+  color: #BF0F12;
+  font-size: 16px;
+}
+
+.fa-heart:before {
+  content: "\f004";
+}
+
+.fa-facebook:before {
+  content: "\f39e";
+}
+
+/* .footer i {
+  color: red; */
+
+/* .icons {
+
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-evenly;
+} */
+
+
+/* .icons {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+
+} */
+
+/*
+.icons a {
+  color: #1EDD88;
+  font-size: 50px;
+} */

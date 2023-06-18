@@ -1,0 +1,14 @@
+
+
+.container {
+  width: 900px;
+  margin: auto;
+}
+
+div {
+  display: block;
+}
+
+.container h2 {
+  text-align: center;
+}
